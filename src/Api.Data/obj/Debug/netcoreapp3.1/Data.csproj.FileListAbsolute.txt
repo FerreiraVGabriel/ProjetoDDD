@@ -1,0 +1,9 @@
+C:\Documentos\estudos\ProjetoDDD\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Documentos\estudos\ProjetoDDD\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Documentos\estudos\ProjetoDDD\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Documentos\estudos\ProjetoDDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Documentos\estudos\ProjetoDDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Documentos\estudos\ProjetoDDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Documentos\estudos\ProjetoDDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Documentos\estudos\ProjetoDDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Documentos\estudos\ProjetoDDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
