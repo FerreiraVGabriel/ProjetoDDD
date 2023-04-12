@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Documentos\\estudos\\ProjetoDDD\\src\\Api.Domain\\Domain.csproj": {}
+    "C:\\Documentos\\estudos\\ProjetoDDD\\ProjetoDDD\\src\\Api.Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Documentos\\estudos\\ProjetoDDD\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\Documentos\\estudos\\ProjetoDDD\\ProjetoDDD\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Documentos\\estudos\\ProjetoDDD\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Documentos\\estudos\\ProjetoDDD\\ProjetoDDD\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Documentos\\estudos\\ProjetoDDD\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\Documentos\\estudos\\ProjetoDDD\\ProjetoDDD\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\gabriel.vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Documentos\\estudos\\ProjetoDDD\\src\\Api.Domain\\obj\\",
+        "outputPath": "C:\\Documentos\\estudos\\ProjetoDDD\\ProjetoDDD\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
