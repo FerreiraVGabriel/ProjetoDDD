@@ -16,3 +16,10 @@ C:\Documentos\estudos\ProjetoDDD\ProjetoDDD\src\Api.Service\obj\Debug\netcoreapp
 C:\Documentos\estudos\ProjetoDDD\ProjetoDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
 C:\Documentos\estudos\ProjetoDDD\ProjetoDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 C:\Documentos\estudos\ProjetoDDD\ProjetoDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Documentos\estudos\ProjetoDDD\ProjetoDDD\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Documentos\estudos\ProjetoDDD\ProjetoDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Documentos\estudos\ProjetoDDD\ProjetoDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Documentos\estudos\ProjetoDDD\ProjetoDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Documentos\estudos\ProjetoDDD\ProjetoDDD\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Documentos\estudos\ProjetoDDD\ProjetoDDD\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Documentos\estudos\ProjetoDDD\ProjetoDDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
