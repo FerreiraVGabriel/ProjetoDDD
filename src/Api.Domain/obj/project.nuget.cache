@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oh1nVDYu/jIHgTDN9CxlLIOZrCCV8Il97+vQAnK4nEm8ARCoOOeJBWmLd/2u9+YYNKMADwk1sJXoH/lXf1KQoA==",
+  "dgSpecHash": "r6kjnrnCXoEIwgCiDYfQW2EZwqLG69LM+Dqozf49JBO3rD2fYeVjLLwuMZNhQJYFiWIvWNnowmDZ+pr1SMkgzQ==",
   "success": true,
-  "projectFilePath": "C:\\Documentos\\estudos\\ProjetoDDD\\ProjetoDDD\\src\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\gabriel.vitor\\Desktop\\Estudos\\Estudos\\ProjetoDDD\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
