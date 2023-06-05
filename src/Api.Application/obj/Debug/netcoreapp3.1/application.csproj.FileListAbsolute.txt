@@ -114,3 +114,10 @@ C:\Users\gabriel.vitor\Desktop\Estudos\Estudos\ProjetoDDD\src\Api.Application\ob
 C:\Users\gabriel.vitor\Desktop\Estudos\Estudos\ProjetoDDD\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.application.props
 C:\Users\gabriel.vitor\Desktop\Estudos\Estudos\ProjetoDDD\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.application.props
 C:\Users\gabriel.vitor\Desktop\Estudos\Estudos\ProjetoDDD\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.application.props
+C:\Users\gabriel.vitor\Desktop\Estudos\Estudos\ProjetoDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabriel.vitor\Desktop\Estudos\Estudos\ProjetoDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabriel.vitor\Desktop\Estudos\Estudos\ProjetoDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabriel.vitor\Desktop\Estudos\Estudos\ProjetoDDD\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabriel.vitor\Desktop\Estudos\Estudos\ProjetoDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gabriel.vitor\Desktop\Estudos\Estudos\ProjetoDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gabriel.vitor\Desktop\Estudos\Estudos\ProjetoDDD\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
